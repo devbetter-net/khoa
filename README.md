@@ -1,2 +1,3 @@
 # khoa
-https://github-readme-stats.vercel.app/api?username=devbetter-net
+
+GitHub stats ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devbetter-net)
